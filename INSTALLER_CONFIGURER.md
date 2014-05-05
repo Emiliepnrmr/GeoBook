@@ -62,7 +62,7 @@ Cette propriété permet de trier vos GeoBooks selon différentes méthodes:
 "SortOrder":
 Permet de spécifier l'ordre de ce tri:
 - "asc" Croissant
-- "dec" Décroissant
+- "desc" Décroissant
 
 
 Une fois votre fichier config.js sauvegardé, votre application est opérationnelle.
