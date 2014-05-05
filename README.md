@@ -1,17 +1,17 @@
-# Livres Cartographiques
+# GeoBook
 
-Le générateur de "Livres Cartographiques" est une application ArcGIS JavaScript qui permet aux utilisateurs de construire une présentation exposant des contenus interatifs dont des cartes web ArcGIS Online (ou Portal for ArcGIS).
+Le générateur de "GeoBook" est une application ArcGIS JavaScript qui permet aux utilisateurs de construire une présentation exposant des contenus interatifs dont des cartes web ArcGIS Online (ou Portal for ArcGIS).
 
 Cette application peut être déployée par toutes les organisations pour publier des documents dynamiques et interactifs pour les décideurs, vos collaborateurs, vos partenaires ou même le grand public. 
 
-Les Livres Cartographiques peuvent contenir des cartes web ArcGIS, des videos, des photos, des textes riches. Vos Livres Cartographiques sont stockés sur la plateforme ArcGIS Online (ou Portal for ArcGIS) de votre organisation. Comme avec n'mporte quelle autre ressource de votre portail, vos livres cartographiques peuvent être privés, partagés avec différents membres de votre organisation ou patagés publiquement. Vos livres cartographiques s'affichent dans un navigateur aussi bien sur des postes Desktop que sur des tablettes.
+Les GeoBooks peuvent contenir des cartes web ArcGIS, des videos, des photos, des textes riches. Vos GeoBooks sont stockés sur la plateforme ArcGIS Online (ou Portal for ArcGIS) de votre organisation. Comme avec n'mporte quelle autre ressource de votre portail, vos GeoBooks peuvent être privés, partagés avec différents membres de votre organisation ou patagés publiquement. Vos livres cartographiques s'affichent dans un navigateur aussi bien sur des postes Desktop que sur des tablettes.
 
-Le projet "Livre Cartographique" est une version française du projet d'Esri ["Briefing-book"](https://github.com/Esri/briefing-book) traduite et adaptée par Gaëtan LAVENU (Esri France).
+Le projet "GeoBook" est une version française du projet d'Esri ["Briefing-book"](https://github.com/Esri/briefing-book) traduite et adaptée par Gaëtan LAVENU (Esri France).
 
 
-[Consulter un exemple de Livre Cartographique](http://195.154.180.110/LivreCartographique/default.htm)
+[Consulter un exemple de Livre Cartographique](http://195.154.180.110/GeoBook/default.htm)
 
-[![Image de l'application Livre Cartographique](briefing-book.png "Livre Cartographique")](http://195.154.180.110/LivreCartographique/default.htm)
+[![Image de l'application Livre Cartographique](briefing-book.png "Livre Cartographique")](http://195.154.180.110/GeoBook/default.htm)
 
 ## Fonctionnalités
 
