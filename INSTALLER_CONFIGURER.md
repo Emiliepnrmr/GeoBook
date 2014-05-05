@@ -65,7 +65,14 @@ Permet de spécifier l'ordre de ce tri:
 - "dec" Décroissant
 
 
+Une fois votre fichier config.js sauvegardé, votre application est opérationnelle.
 
 Pour démarrer l'application GeoBook, vous utiliserez l'url suivante:
 http://<your server>/GeoBook/default.htm
+
+Pour créer ou modifier un GeoBook, vous devez vous authenfier avec votre compte ArcGIS Online (ou Portal for ArcGIS), en
+utilisant le bouton situé à droite de la barre d'outil.
+
+
+
 
