@@ -21,7 +21,7 @@ Le projet "GeoBook" est une version française du projet d'Esri ["Briefing-book"
 ## Instructions
 
 ### Aide générale sur l'utilisation de GitHub
-[Vous découvrez Github? Quelques instructions (en anglais) pour apprendre les bases:](http://htmlpreview.github.com/?https://github.com/Esri/esri.github.com/blob/master/help/esri-getting-to-know-github.html)
+[Vous découvrez Github? Quelques instructions (en anglais) pour apprendre les bases](http://htmlpreview.github.com/?https://github.com/Esri/esri.github.com/blob/master/help/esri-getting-to-know-github.html).
 
 ### Installer et configurer l'application GeoBook
 
