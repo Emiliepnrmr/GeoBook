@@ -1,7 +1,30 @@
-L'application s'installe en déposant l'ensemble des fichiers du projet sur un serveur web. 
+L'application s'installe en déposant l'ensemble des fichiers du projet sur un serveur web. L'application nécessitant
+l'utilisation d'un e page proxy votre serveur web doit pouvoir exécuter des pages ASP .Net (IIS) ou des pages JSP
+(Apache Tomcat, par exemple)
 
-Avec IIS
---------
+Installation sous IIS
+---------------------
+
+Si vous souhaitez utiliser IIS 7:
+- Copiez les fichiers du projets dans un répertoire de votre serveur IIS,
+- Convertisez ensuite votre répertoire en une application
+- Définissez le pool d'application sur la version la plus récente d'ASP .Net
+- Retrouvez et définissez, dans le fichier config.js, la ligne suivante:
+  ProxyURL: "/proxy/proxy.ashx",
+
+Si vous disposez d'une version plus ancienne de IIS
+- Contactez votre administrateur système pour la configuration et la sécurisation d'un répertoire et l'actvation d'ASP .Net
+- Retrouvez et définissez, dans le fichier config.js, la ligne suivante:
+  ProxyURL: "/proxy/proxy.ashx",
+
+Installation sous Apache Tomcat (ou autre)
+------------------------------------------
+
+- Copiez les fichiers du projets dans un répertoire de votre serveur IIS,
+- Retrouvez et définissez, dans le fichier config.js, la ligne suivante:
+  ProxyURL: "/proxy/proxy.ashx",
+
+
 
 he application is published by moving the application files to a web server, converting them to an application, and defining 
 the application pool using Microsoft Internet Information Services (IIS). This workflow uses Microsoft IIS 7. If you are 
