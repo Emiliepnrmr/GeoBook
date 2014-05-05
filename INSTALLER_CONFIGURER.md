@@ -4,7 +4,7 @@ l'utilisation d'un e page proxy votre serveur web doit pouvoir exécuter des pag
 
 ## Installation sous IIS
 
-Si vous souhaitez utiliser IIS 7:
+Si vous utilisez IIS 7:
 - Copiez les fichiers du projets dans un répertoire de votre serveur IIS, par exemple: c:\Inetpub\wwwroot\GeoBook
 - Convertisez ensuite votre répertoire en une application (dans le manager IIS, un clic-droit sur votre répertoire, puis
   "Convertir en application).
@@ -12,7 +12,7 @@ Si vous souhaitez utiliser IIS 7:
 - Retrouvez et définissez, dans le fichier config.js, la ligne suivante:
   ProxyURL: "/proxy/proxy.ashx",
 
-Si vous disposez d'une version plus ancienne de IIS
+Si vous utilisez une version plus ancienne de IIS:
 - Contactez votre administrateur système pour la configuration et la sécurisation d'un répertoire et l'actvation d'ASP .Net
 - Retrouvez et définissez, dans le fichier config.js, la ligne suivante:
   ProxyURL: "/proxy/proxy.ashx",
