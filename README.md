@@ -9,9 +9,9 @@ Les GeoBooks peuvent contenir des cartes web ArcGIS, des videos, des photos, des
 Le projet "GeoBook" est une version française du projet d'Esri ["Briefing-book"](https://github.com/Esri/briefing-book) traduit et adapté par Gaëtan LAVENU (Esri France).
 
 
-[Consulter un exemple de Livre Cartographique](http://195.154.180.110/GeoBook/default.htm)
+[Consulter un exemple de GeoBook](http://195.154.180.110/GeoBook/default.htm)
 
-[![Image de l'application Livre Cartographique](briefing-book.png "Livre Cartographique")](http://195.154.180.110/GeoBook/default.htm)
+[![Image de l'application GeoBook](briefing-book.png "GeoBook")](http://195.154.180.110/GeoBook/default.htm)
 
 ## Fonctionnalités
 
@@ -21,7 +21,7 @@ Le projet "GeoBook" est une version française du projet d'Esri ["Briefing-book"
 ## Instructions
 
 ### Aide générale sur l'utilisation de GitHub
-[Nouveu survGithub? Quelques instructions (en anglais) pour apprendre les bases:](http://htmlpreview.github.com/?https://github.com/Esri/esri.github.com/blob/master/help/esri-getting-to-know-github.html)
+[Vous découvrez Github? Quelques instructions (en anglais) pour apprendre les bases:](http://htmlpreview.github.com/?https://github.com/Esri/esri.github.com/blob/master/help/esri-getting-to-know-github.html)
 
 ### Installer et configurer l'application GeoBook
 
