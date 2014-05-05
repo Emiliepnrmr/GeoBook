@@ -51,5 +51,5 @@ WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.
 See the License for the specific language governing permissions and
 limitations under the License."
 
-Une copie des clauses de la licence Apache Version 2.0 se trouve dans ce Repository GitHub (dans sa version originale anglaise)
+Une copie des clauses de la licence Apache Version 2.0 se trouve à la racine de ce projet GitHub (dans sa version originale anglaise)
 [LICENSE.txt](LICENSE.txt).
