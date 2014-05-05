@@ -6,7 +6,7 @@ Cette application peut être déployée par toutes les organisations pour publie
 
 Les GeoBooks peuvent contenir des cartes web ArcGIS, des videos, des photos, des textes riches. Vos GeoBooks sont stockés sur la plateforme ArcGIS Online (ou Portal for ArcGIS) de votre organisation. Comme avec n'mporte quelle autre ressource de votre portail, vos GeoBooks peuvent être privés, partagés avec différents membres de votre organisation ou patagés publiquement. Vos livres cartographiques s'affichent dans un navigateur aussi bien sur des postes Desktop que sur des tablettes.
 
-Le projet "GeoBook" est une version française du projet d'Esri ["Briefing-book"](https://github.com/Esri/briefing-book) traduite et adaptée par Gaëtan LAVENU (Esri France).
+Le projet "GeoBook" est une version française du projet d'Esri ["Briefing-book"](https://github.com/Esri/briefing-book) traduit et adapté par Gaëtan LAVENU (Esri France).
 
 
 [Consulter un exemple de Livre Cartographique](http://195.154.180.110/GeoBook/default.htm)
@@ -57,6 +57,3 @@ limitations under the License."
 
 Une copie des clauses de la licence Apache Version 2.0 se trouve dans ce Repository GitHub (en version originale anglaise)
 [LICENSE.txt](LICENSE.txt).
-
-[](Esri Tags: Local-Government Local Government Briefing Book State-Government State Government ArcGIS Defense and Intelligence Military)
-[](Esri Language: JavaScript)
