@@ -31,7 +31,8 @@ qu'avec une version 10 ou supérieure d'Internet Explorer. En revanche, GeoBook 
 
 Si vous utiliser IIS, vous pouvez modifier le filtrage des URL autorisées par votre page proxy, vous pouvez ouvrir et modifier les URL dans le fichier proxy.config se trouvant dans le répertoire proxy.
 
-## Configurer GeoBook
+
+## Configurer l'application
 
 Avant de commencer à utiliser GeoBook vous devez configurer quelques paramètres de base. Le fichier de configuration
 de GeoBook se trouve à la racine de l'application et se nomme config.js. Ouvrir ce fichier et renseigner les paramètres
@@ -45,7 +46,7 @@ Il s'agit de l'URL du portail ArcGIS de votre organisation (ArcGIS Online ou Por
 Par exemple: http://<mon_organisation>.maps.arcgis.com
 
 "ConfigSearchTag":
-Il s'agit de la balise qui sera associée à tous les GeoBooks stocké sur ArcGIs Online. Les GeoBooks sont enregistrés
+Il s'agit de la balise qui sera associée à tous les GeoBooks stocké sur ArcGIS Online. Les GeoBooks sont enregistrés
 en tant qu'éléments de type "Application Web" dans votre portail. Cette balise sert à identifier les GeoBooks à afficher
 dans l'application. Ne jamais modifier ou supprimer cette balise via votre portail.
 
@@ -54,17 +55,17 @@ Cette propriété permet de trier vos GeoBooks selon différentes méthodes:
 - "title" Titre du GeoBook
 - "owner" Les noms des auteurs des GeoBooks
 - "avgRating" Le nombre de vote sur les GeoBooks
-- "numViews" Le nombre de vues
-- "created sorts bookshelf by the creators name
-modified sorts bookshelf by the modification date
-SortOrder	Choose one of the following values:
-asc sorts bookshelf in ascending order depending upon your SortField choice
-dec sorts bookshelf in descending order depending upon your SortField choice
+- "numViews" Le nombre de vues des GeoBooks
+- "created" La date de création des GeoBooks
+- "modified" La date de modification des GeoBooks
+
+"SortOrder":
+Permet de spécifier l'ordre de ce tri:
+- "asc" Croissant
+- "dec" Décroissant
 
 
 
 Pour démarrer l'application GeoBook, vous utiliserez l'url suivante:
 http://<your server>/GeoBook/default.htm
-
-
 
