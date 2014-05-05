@@ -23,21 +23,17 @@ Le projet "GeoBook" est une version française du projet d'Esri ["Briefing-book"
 ### Aide générale sur l'utilisation de GitHub
 [Nouveu survGithub? Quelques instructions (en anglais) pour apprendre les bases:](http://htmlpreview.github.com/?https://github.com/Esri/esri.github.com/blob/master/help/esri-getting-to-know-github.html)
 
-## Démarrer avec ce configurateur
+### Installer et configurer l'application GeoBook
 
-Pour commencer, vous devez installer et paramétrer l'application:
+Pour commencer, vous devez installer puis configurer l'application. Cela ne vous prendra que quelques minutes
+en suivant les instructions figurant dans [cette page](INSTALLER_CONFIGURER.md).
 
-[Configurer l'application (reste à traduire)](http://solutions.arcgis.com/local-government/help/briefing-book/get-started/configure-application/)
-
-[Publier l'application (reste à traduire)](http://solutions.arcgis.com/local-government/help/briefing-book/get-started/publish-application/)
-
-
-## Contribuer
+### Contribuer
 
 Esri France vous encourage à modifier, améliorer ou étendre cette application. Pour plus d'information, 
 consulter [ce guide de contribution](https://github.com/esrifrance/Contribuer).
 
-## Condition de Licence
+### Conditions de Licence
 
 Copyright 2013 Esri / Esri France
 
