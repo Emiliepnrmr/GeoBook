@@ -2,7 +2,7 @@
 
 Le générateur de "GeoBook" est une application ArcGIS JavaScript qui permet aux utilisateurs de construire une présentation exposant des contenus interatifs dont des cartes web ArcGIS Online (ou Portal for ArcGIS).
 
-Cette application peut être déployée par toutes les organisations pour publier des documents dynamiques et interactifs pour les décideurs, vos collaborateurs, vos partenaires ou même le grand public. 
+Cette application peut être déployée par toutes les organisations disposant d'un plan de souscription ArcGIS Online (ou Portal for ArcGIS) afin de publier des documents dynamiques et interactifs pour les décideurs, vos collaborateurs, vos partenaires ou même le grand public. 
 
 Les GeoBooks peuvent contenir des cartes web ArcGIS, des videos, des photos, des textes riches. Vos GeoBooks sont stockés sur la plateforme ArcGIS Online (ou Portal for ArcGIS) de votre organisation. Comme avec n'mporte quelle autre ressource de votre portail, vos GeoBooks peuvent être privés, partagés avec différents membres de votre organisation ou patagés publiquement. Vos livres cartographiques s'affichent dans un navigateur aussi bien sur des postes Desktop que sur des tablettes.
 
