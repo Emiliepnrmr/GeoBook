@@ -20,8 +20,8 @@ Le projet "GeoBook" est une version française du projet d'Esri ["Briefing-book"
 
 ## Instructions
 
-### Aide générale sur l'utilisation de GitHub (en anglais)
-[New to Github? Get started here.](http://htmlpreview.github.com/?https://github.com/Esri/esri.github.com/blob/master/help/esri-getting-to-know-github.html)
+### Aide générale sur l'utilisation de GitHub
+[Nouveu survGithub? Quelques instructions (en anglais) pour apprendre les bases:](http://htmlpreview.github.com/?https://github.com/Esri/esri.github.com/blob/master/help/esri-getting-to-know-github.html)
 
 ## Démarrer avec ce configurateur
 
@@ -35,13 +35,13 @@ Pour commencer, vous devez installer et paramétrer l'application:
 ## Contribuer
 
 Esri France vous encourage à modifier, améliorer ou étendre cette application. Pour plus d'information, 
-consulter [ce guide de contribution](https://github.com/esri/contributing).
+consulter [ce guide de contribution](https://github.com/esrifrance/Contribuer).
 
-## Licensing
+## Condition de Licence
 
 Copyright 2013 Esri / Esri France
 
-Cette application est publiée sous licence: Apache License, Version 2.0 (the "License");
+Cette application est publiée sous licence: "Apache License, Version 2.0".
 Vous ne devez pas utiliser les fichiers de ce projet en dehors des clauses de cette Licence.
 Les clauses de cette licence sont détaillées ici:
 
